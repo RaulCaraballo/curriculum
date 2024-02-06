@@ -1,38 +1,110 @@
-[
-    {
-        "meta": {
-          "theme": "stackoverflow"
-        },
-        "nombre": "Raúl Caraballo Arranz",
-        "titulo": "Desarrollador Web",
-        "correo": "correo-de-raul@gmail.com",
-        "telefono": "123-456-789",
-        "resumen": "Soy un apasionado desarrollador web con experiencia en...",
-        "experienciaLaboral": [
-          {
-            "puesto": "Desarrollador Full Stack",
-            "empresa": "Empresa XYZ",
-            "periodo": "Enero 2020 - Presente",
-            "descripcion": "Trabajé en proyectos de desarrollo web..."
-          },
-          {
-            "puesto": "Analista de Sistemas",
-            "empresa": "Otra Empresa",
-            "periodo": "Mayo 2018 - Diciembre 2019",
-            "descripcion": "Responsable de analizar y mejorar los sistemas internos..."
-          }
-        ],
-        "estudios": [
-          {
-            "titulo": "Ingeniería Informática",
-            "institucion": "Universidad ABC",
-            "periodo": "2014 - 2018"
-          },
-          {
-            "titulo": "Curso Avanzado de Desarrollo Web",
-            "institucion": "Instituto XYZ",
-            "periodo": "2019 - 2021"
-          }
-        ]
-      }
-]
+{
+  "basics": {
+    "nombre": "Raúl Caraballo",
+    "etiqueta": "Programador",
+    "imagen": "",
+    "email": "raul3@gmail.com",
+    "telefono": "(912) 555-4321",
+    "url": "https://raulcaraballo.com",
+    "resumen": "Un resumen de Raúl Caraballo...",
+    "ubicacion": {
+      "direccion": "Calle Ancha, 123",
+      "codigoPostal": "28001",
+      "ciudad": "Madrid",
+      "codigoPais": "ES",
+      "region": "Comunidad de Madrid"
+    },
+    "perfiles": [{
+      "red": "Twitter",
+      "nombreUsuario": "raul3",
+      "url": "https://twitter.com/raul3"
+    }]
+  },
+  "trabajo": [{
+    "nombre": "Empresa",
+    "puesto": "Presidente",
+    "url": "https://empresa.com",
+    "fechaInicio": "2013-01-01",
+    "fechaFin": "2014-01-01",
+    "resumen": "Descripción...",
+    "logros": [
+      "Fundó la empresa"
+    ]
+  }],
+  "voluntariado": [{
+    "organizacion": "Organización",
+    "puesto": "Voluntario",
+    "url": "https://organizacion.com/",
+    "fechaInicio": "2012-01-01",
+    "fechaFin": "2013-01-01",
+    "resumen": "Descripción...",
+    "logros": [
+      "Galardonado como 'Voluntario del Mes'"
+    ]
+  }],
+  "educacion": [{
+    "institucion": "Universidad",
+    "url": "https://universidad.com/",
+    "area": "Desarrollo de Software",
+    "tipoEstudio": "Licenciatura",
+    "fechaInicio": "2011-01-01",
+    "fechaFin": "2013-01-01",
+    "calificacion": "4.0",
+    "cursos": [
+      "DB1101 - SQL Básico"
+    ]
+  }],
+  "premios": [{
+    "titulo": "Premio",
+    "fecha": "2014-11-01",
+    "otorgadoPor": "Empresa",
+    "resumen": "No hay."
+  }],
+  "certificados": [{
+    "nombre": "Certificado",
+    "fecha": "2021-11-07",
+    "emisor": "Empresa",
+    "url": "https://certificado.com"
+  }],
+  "publicaciones": [{
+    "nombre": "Publicación",
+    "editor": "Empresa",
+    "fechaPublicacion": "2014-10-01",
+    "url": "https://publicacion.com",
+    "resumen": "Descripción..."
+  }],
+  "habilidades": [{
+    "nombre": "Desarrollo Web",
+    "nivel": "Experto",
+    "palabrasClave": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "idiomas": [{
+    "idioma": "Español",
+    "fluidez": "Hablante nativo"
+  }],
+  "intereses": [{
+    "nombre": "Naturaleza",
+    "palabrasClave": [
+      "Aves",
+      "Senderismo"
+    ]
+  }],
+  "referencias": [{
+    "nombre": "Pepe el Pepinillo",
+    "referencia": "Referencia..."
+  }],
+  "proyectos": [{
+    "nombre": "Proyecto",
+    "fechaInicio": "2019-01-01",
+    "fechaFin": "2021-01-01",
+    "descripcion": "Descripción...",
+    "logros": [
+      "Premiado en AIHacks 2016"
+    ],
+    "url": "https://proyecto.com/"
+  }]
+}
