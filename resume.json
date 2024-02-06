@@ -1,4 +1,7 @@
 {
+  "meta": {
+      "theme": "elegant"
+    },
   "basics": {
     "nombre": "Raúl Caraballo",
     "etiqueta": "Programador",
