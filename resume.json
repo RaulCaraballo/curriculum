@@ -1,37 +1,38 @@
-{
-    "meta": {
-      "theme": "stackoverflow"
-    },
-    "nombre": "Raúl Caraballo Arranz",
-    "titulo": "Desarrollador Web",
-    "correo": "correo-de-raul@gmail.com",
-    "telefono": "123-456-789",
-    "resumen": "Soy un apasionado desarrollador web con experiencia en...",
-    "experienciaLaboral": [
-      {
-        "puesto": "Desarrollador Full Stack",
-        "empresa": "Empresa XYZ",
-        "periodo": "Enero 2020 - Presente",
-        "descripcion": "Trabajé en proyectos de desarrollo web..."
-      },
-      {
-        "puesto": "Analista de Sistemas",
-        "empresa": "Otra Empresa",
-        "periodo": "Mayo 2018 - Diciembre 2019",
-        "descripcion": "Responsable de analizar y mejorar los sistemas internos..."
+[
+    {
+        "meta": {
+          "theme": "stackoverflow"
+        },
+        "nombre": "Raúl Caraballo Arranz",
+        "titulo": "Desarrollador Web",
+        "correo": "correo-de-raul@gmail.com",
+        "telefono": "123-456-789",
+        "resumen": "Soy un apasionado desarrollador web con experiencia en...",
+        "experienciaLaboral": [
+          {
+            "puesto": "Desarrollador Full Stack",
+            "empresa": "Empresa XYZ",
+            "periodo": "Enero 2020 - Presente",
+            "descripcion": "Trabajé en proyectos de desarrollo web..."
+          },
+          {
+            "puesto": "Analista de Sistemas",
+            "empresa": "Otra Empresa",
+            "periodo": "Mayo 2018 - Diciembre 2019",
+            "descripcion": "Responsable de analizar y mejorar los sistemas internos..."
+          }
+        ],
+        "estudios": [
+          {
+            "titulo": "Ingeniería Informática",
+            "institucion": "Universidad ABC",
+            "periodo": "2014 - 2018"
+          },
+          {
+            "titulo": "Curso Avanzado de Desarrollo Web",
+            "institucion": "Instituto XYZ",
+            "periodo": "2019 - 2021"
+          }
+        ]
       }
-    ],
-    "estudios": [
-      {
-        "titulo": "Ingeniería Informática",
-        "institucion": "Universidad ABC",
-        "periodo": "2014 - 2018"
-      },
-      {
-        "titulo": "Curso Avanzado de Desarrollo Web",
-        "institucion": "Instituto XYZ",
-        "periodo": "2019 - 2021"
-      }
-    ]
-  }
-  
+]
